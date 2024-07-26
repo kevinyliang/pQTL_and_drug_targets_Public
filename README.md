@@ -1,1 +1,1 @@
-# pQTL_and_drug_targets_Public
+# Approximating protein-protein interactions with pQTLs in drug target prioritization
